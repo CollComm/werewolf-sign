@@ -22,6 +22,7 @@ from werewolf_sign_interpreter import main
 video_path = "path_to_your_werewolf_sign_video.mp4"
 result = main(video_path)
 print("Translated Werewolf Signs:", result)
+```
 
 ## Contributing
 
