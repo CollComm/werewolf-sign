@@ -1,5 +1,7 @@
 # Werewolf Sign
 
+![Werewolf Sign](./werewolf_sign_6.jpg)
+
 Werewolf Sign is a web-based interpreter for the Werewolf Hand Gesture Language (WHGL). It uses computer vision and natural language processing to translate hand gestures from video input into text, facilitating silent communication in Werewolf-style games.
 
 ## Features
